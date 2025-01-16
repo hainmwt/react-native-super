@@ -1,0 +1,3 @@
+[submodule "mini-app"]
+	path = mini-app
+	url = git@github.com:hainmwt/mini-app.git
